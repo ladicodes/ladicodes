@@ -11,9 +11,7 @@
     </a>
   </section>
 
-  <p>I&apos;m I’m a software engineer specializing in backend development, passionate about building scalable systems that solve real-world problems. 
-
-I enjoy collaborating across teams to turn ideas into reliable, high-performing solutions — whether optimizing fintech platforms or developing AI-driven applications that amplify innovation. My goal is to create technology that connects, simplifies, and makes a difference..</p>
+  <p>I&apos;m  a software engineer specializing in backend development, passionate about building scalable systems that solve real-world problems. I enjoy collaborating across teams to turn ideas into reliable, high-performing solutions, whether optimizing fintech platforms or developing AI-driven applications that amplify innovation. My goal is to create technology that connects, simplifies, and makes a difference..</p>
 </section>
 
 <section>
