@@ -11,7 +11,9 @@
     </a>
   </section>
 
-  <p>I&apos;m an Innovative Backend Developer proficient in Python with experience building projects using the Django framework. Skilled in leveraging NumPy, Pandas, and Matplotlib to manipulate large datasets and create insightful visualizations.</p>
+  <p>I&apos;m I’m a software engineer specializing in backend development, passionate about building scalable systems that solve real-world problems. 
+
+I enjoy collaborating across teams to turn ideas into reliable, high-performing solutions — whether optimizing fintech platforms or developing AI-driven applications that amplify innovation. My goal is to create technology that connects, simplifies, and makes a difference..</p>
 </section>
 
 <section>
