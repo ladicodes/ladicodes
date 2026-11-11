@@ -5,6 +5,9 @@ Writes: assets/stats-light.svg and assets/stats-dark.svg
 
 Standard library only. If the API call fails, nothing is written, so the
 README keeps showing the last good card.
+
+The contribution total matches the profile graph, so it includes private
+contributions while "Include private contributions" is on in GitHub settings.
 """
 
 import datetime as dt
