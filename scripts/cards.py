@@ -169,15 +169,12 @@ CONTENT = {
         text="Bringing developers together, sharing opportunities, and helping people grow through technology.")),
 
     "project-sovra": (project_card, dict(title="Sovra", kicker="personal finance", accent="purple",
-        host="sovra-ecru.vercel.app",
         text="A money app that remembers your goals. Budgets, limits and past decisions live in a memory vault on Walrus, so its advice gets more personal over time instead of starting from zero.",
         tags=["TypeScript", "NestJS", "Sui", "Walrus"])),
     "project-stakesync": (project_card, dict(title="StakeSync", kicker="accountability", accent="cyan",
-        host="usestakesync.xyz",
         text="Join a challenge, put something on the line, and prove you showed up. Progress is checked against GitHub, LeetCode, Solana activity and more. Running on Solana devnet with credits while in testing.",
         tags=["Solana", "TypeScript", "React"])),
     "project-blockrouter": (project_card, dict(title="BlockRouter", kicker="payments for AI", accent="teal",
-        host="blockrouter.netlify.app",
         text="Self-custodial stablecoin payments for AI inference. Lock a USDC budget in an on-chain vault, use any OpenAI-compatible tool, and pay only for the tokens you use. Live on Solana devnet.",
         tags=["Solana", "Anchor", "Rust", "TypeScript"])),
 
