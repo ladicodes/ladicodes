@@ -25,6 +25,7 @@
   <a href="https://x.com/ladicodez"><img alt="X: @ladicodez" src="https://img.shields.io/badge/X-@ladicodez-1E293B?style=flat-square&logo=x&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/ladicodes"><img alt="LinkedIn: ladicodes" src="https://img.shields.io/badge/LinkedIn-ladicodes-1E293B?style=flat-square&logoColor=white"></a>
   <a href="https://dev.to/ladipo_samuel_7cfaa827bf5"><img alt="DEV.to articles" src="https://img.shields.io/badge/DEV-articles-1E293B?style=flat-square&logo=devdotto&logoColor=white"></a>
+  <a href="https://leetcode.com/u/Ladipoe/"><img alt="LeetCode: Ladipoe" src="https://img.shields.io/badge/LeetCode-Ladipoe-1E293B?style=flat-square&logo=leetcode&logoColor=white"></a>
 </p>
 
 ## What I do
@@ -103,7 +104,7 @@ I build, I write, and I teach. My Docker series breaks one tool down in short vi
   <img alt="GitHub activity for ladicodes over the last year: contributions per week, streaks, pull requests, stars and languages." src="assets/stats-light.svg" width="100%">
 </picture>
 
-<sub>Built from my GitHub contribution data (private contributions included, as on my profile graph) and refreshed daily by a small GitHub Action in this repo.</sub>
+<sub>Built from my GitHub contribution data (private contributions included, as on my profile graph) and refreshed hourly by a small GitHub Action in this repo.</sub>
 
 ## Let's build something
 
