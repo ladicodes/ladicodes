@@ -201,6 +201,8 @@ CONTENT = {
         title="Beyond CRUD: 9 Backend Concepts Every Engineer Should Know")),
     "article-hackathons": (article_card, dict(kicker="Impact · hackathons", accent="teal", meta="3 min read",
         title="The Strategy Behind Winning Hackathons")),
+    "article-first-opportunity": (article_card, dict(kicker="Career · community", accent="blue", meta="5 min read",
+        title="How to Get Your First Opportunity Without Work Experience")),
     "article-fintech": (article_card, dict(kicker="Backend", accent="cyan", meta="4 min read",
         title="Backend Concepts I Understand Better Because of Fintech")),
 }
