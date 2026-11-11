@@ -103,7 +103,7 @@ I build, I write, and I teach. My Docker series breaks one tool down in short vi
   <img alt="GitHub activity for ladicodes over the last year: contributions per week, streaks, pull requests, stars and languages." src="assets/stats-light.svg" width="100%">
 </picture>
 
-<sub>Built from my public GitHub data and refreshed daily by a small GitHub Action in this repo.</sub>
+<sub>Built from my GitHub contribution data (private contributions included, as on my profile graph) and refreshed daily by a small GitHub Action in this repo.</sub>
 
 ## Let's build something
 
