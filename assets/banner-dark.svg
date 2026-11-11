@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="t d">
+  <title id="t">ladicodes</title>
+  <desc id="d">Terminal-style banner for Ladipo Samuel (Ladicodes): build, write, teach, ship.</desc>
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset="0.55" stop-color="#2DD4BF"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.82" cy="0.45" r="0.45">
+      <stop offset="0" stop-color="#A78BFA" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect x="1" y="1" width="1198" height="298" rx="18" fill="#0B1220" stroke="#1E293B" stroke-width="2"/>
+  <rect x="1" y="1" width="1198" height="298" rx="18" fill="url(#glow)"/>
+
+  <!-- window chrome -->
+  <circle cx="34" cy="32" r="6" fill="#1E293B"/>
+  <circle cx="56" cy="32" r="6" fill="#1E293B"/>
+  <circle cx="78" cy="32" r="6" fill="#1E293B"/>
+  <text x="104" y="37" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#94A3B8">~/ladicodes</text>
+  <line x1="2" y1="56" x2="1198" y2="56" stroke="#1E293B" stroke-width="1.5"/>
+
+  <!-- prompt -->
+  <text x="64" y="118" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="24" fill="#94A3B8"><tspan fill="#2DD4BF">$</tspan> whoami</text>
+
+  <!-- wordmark -->
+  <text x="60" y="198" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="86" font-weight="700" letter-spacing="-2" fill="#E2E8F0">ladicodes</text>
+  <rect x="468" y="134" width="16" height="70" rx="2" fill="#22D3EE">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="64" y="248" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22" fill="#94A3B8">build <tspan fill="#22D3EE">·</tspan> write <tspan fill="#2DD4BF">·</tspan> teach <tspan fill="#A78BFA">·</tspan> ship</text>
+
+  <!-- chain of blocks + network, kept quiet -->
+  <g stroke="#334155" stroke-width="2" fill="none" opacity="0.9">
+    <line x1="742" y1="170" x2="812" y2="170"/>
+    <line x1="872" y1="170" x2="942" y2="170"/>
+    <line x1="1002" y1="170" x2="1072" y2="170"/>
+    <line x1="842" y1="140" x2="900" y2="92"/>
+    <line x1="972" y1="140" x2="900" y2="92"/>
+    <line x1="972" y1="200" x2="1030" y2="246"/>
+    <line x1="1102" y1="140" x2="1132" y2="96"/>
+    <line x1="842" y1="200" x2="796" y2="250"/>
+  </g>
+  <g stroke-width="2">
+    <rect x="682" y="140" width="60" height="60" rx="10" fill="#0B1220" stroke="#334155"/>
+    <rect x="812" y="140" width="60" height="60" rx="10" fill="#0B1220" stroke="#22D3EE"/>
+    <rect x="942" y="140" width="60" height="60" rx="10" fill="#0B1220" stroke="#2DD4BF"/>
+    <rect x="1072" y="140" width="60" height="60" rx="10" fill="#0B1220" stroke="#A78BFA"/>
+  </g>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" text-anchor="middle" fill="#94A3B8">
+    <text x="712" y="175">{ }</text>
+    <text x="842" y="175">api</text>
+    <text x="972" y="175">sol</text>
+    <text x="1102" y="175">docs</text>
+  </g>
+  <circle cx="900" cy="92" r="7" fill="#22D3EE"/>
+  <circle cx="1030" cy="246" r="6" fill="#2DD4BF"/>
+  <circle cx="1132" cy="96" r="5" fill="#A78BFA"/>
+  <circle cx="796" cy="250" r="5" fill="#334155"/>
+
+  <rect x="1" y="294" width="1198" height="5" rx="2.5" fill="url(#accent)"/>
+</svg>
