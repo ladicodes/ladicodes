@@ -71,6 +71,7 @@ I build, I write, and I teach. My Docker series breaks one tool down in short vi
 </p>
 
 <sub>
+  New to Solana? Start with <a href="https://dev.to/ladipo_samuel_7cfaa827bf5/building-on-solana-with-turbin3-understanding-the-architecture-first-2fm8">Building on Solana with Turbin3</a> ·
   SPL token series continues with <a href="https://dev.to/ladipo_samuel_7cfaa827bf5/building-an-spl-token-on-solana-adding-metadata-e5f">Adding Metadata</a> and <a href="https://dev.to/ladipo_samuel_7cfaa827bf5/building-an-spl-token-on-solana-minting-tokens-and-understanding-atas-3hpl">Minting Tokens and Understanding ATAs</a> ·
   Docker articles: <a href="https://dev.to/ladipo_samuel_7cfaa827bf5/docker-explained-part-1-understanding-docker-before-writing-your-first-command-3o0o">part 1</a>, <a href="https://dev.to/ladipo_samuel_7cfaa827bf5/docker-explained-part-2-understanding-dockers-architecture-images-containers-1fop">part 2</a>, <a href="https://dev.to/ladipo_samuel_7cfaa827bf5/docker-series-part-3dockerizing-your-first-application-1ji6">part 3</a> ·
   <a href="https://dev.to/ladipo_samuel_7cfaa827bf5">everything on DEV</a>
