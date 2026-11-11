@@ -8,12 +8,15 @@
 <h1 align="center">Hey, I'm Ladipo Samuel 👋</h1>
 
 <p align="center">
-  Most people know me as <b>Ladicodes</b>.<br>
-  <b>Developer Relations Engineer · Blockchain Builder · Backend Engineer</b>
+  Most people know me as <b>Ladicodes</b>.
 </p>
 
 <p align="center">
-  I build backend systems and developer tools, then write about how they work so the next developer has an easier time than I did.
+  I'm a Developer Relations Engineer, Blockchain Builder, and Backend Engineer. I've worked with engineering teams at <b>Microsoft</b> and <b>Squad by GTCO</b>, built on <b>Solana</b> through Turbin3, and spent a good part of my journey building tools, writing technical content, and helping developer communities grow.
+</p>
+
+<p align="center">
+  I enjoy building things, and making it easier for other developers to build theirs.
 </p>
 
 <p align="center">
@@ -24,115 +27,86 @@
   <a href="https://dev.to/ladipo_samuel_7cfaa827bf5"><img alt="DEV.to articles" src="https://img.shields.io/badge/DEV-articles-1E293B?style=flat-square&logo=devdotto&logoColor=white"></a>
 </p>
 
----
-
-## A little about me
-
-I'm a Computer Science student at the University of Lagos. I interned at **Microsoft**, where I was picked as lead intern and left with the Excellence and Collaboration Award, then spent a year as a software engineer at **Squad by GTCO**, building backend services in fintech. Fintech is where I learned to care about the boring details that keep money safe.
-
-These days I'm deep in **Solana**. I graduated from the Turbin3 builders cohort and I'm writing my way through SPL tokens one article at a time. I also like poking at AI systems to see how they break.
-
-Outside the editor I'm usually around a community: GDG UNILAG, Solana Student Academy, judging a hackathon, or answering DMs from someone who just started. I've won 12 hackathons, and honestly most of that credit goes to good teams and a clear pitch.
-
 ## What I do
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛠️ Build</h3>
-      Backend services and APIs in Python and TypeScript, plus tools that make other developers faster. Payments, webhooks, auth and the plumbing nobody sees.
-    </td>
-    <td width="50%" valign="top">
-      <h3>⛓️ Blockchain</h3>
-      Solana programs with Anchor, SPL tokens and stablecoin payment flows. I've also shipped on Sui and NEAR at hackathons.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>✍️ Teach</h3>
-      Tutorials that explain the architecture before the first command. Talks, panels, workshops and mentoring student teams.
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤝 Community</h3>
-      Growing developer communities on campus and online, and helping new developers land their first opportunity.
-    </td>
-  </tr>
-</table>
+<p>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/focus-build-dark.svg"><img alt="Build: Backend systems, APIs, developer tools, and products that solve real problems." src="assets/cards/focus-build-light.svg" width="400"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/focus-blockchain-dark.svg"><img alt="Blockchain: Building on Solana, exploring smart contracts, payments, and developer infrastructure." src="assets/cards/focus-blockchain-light.svg" width="400"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/focus-teach-dark.svg"><img alt="Teach: Technical articles, tutorials, demos, workshops, and talks that help developers understand and build." src="assets/cards/focus-teach-light.svg" width="400"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/focus-community-dark.svg"><img alt="Community: Bringing developers together, sharing opportunities, and helping people grow through technology." src="assets/cards/focus-community-light.svg" width="400"></picture>
+</p>
 
 ## Featured projects
 
-### [LogJack](https://github.com/ladicodes/LogJack)
-<sub><i>solo project</i></sub><br>
-A testbed for indirect prompt injection. It hides attack strings inside synthetic security logs (User-Agent headers, URL paths, SSH usernames) and measures whether an LLM-powered SOC assistant gets talked out of the right verdict, comparing four defense strategies on identical inputs. Runs fully simulated, with a mock provider for development and adapters for real models.<br>
-<sub>Python · FastAPI · React · TypeScript</sub> · [Repo](https://github.com/ladicodes/LogJack) · [Live demo](https://log-jack.vercel.app)
+<p>
+  <a href="https://sovra-ecru.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/project-sovra-dark.svg"><img alt="Sovra: a money app that remembers your goals, with memories stored on Walrus. Live project." src="assets/cards/project-sovra-light.svg" width="266"></picture></a>
+  <a href="https://www.usestakesync.xyz/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/project-stakesync-dark.svg"><img alt="StakeSync: join a challenge and prove you showed up. Running on Solana devnet with credits. Live project." src="assets/cards/project-stakesync-light.svg" width="266"></picture></a>
+  <a href="https://blockrouter.netlify.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/project-blockrouter-dark.svg"><img alt="BlockRouter: self-custodial stablecoin payments for AI inference on Solana devnet. Live project." src="assets/cards/project-blockrouter-light.svg" width="266"></picture></a>
+</p>
 
-### [BlockRouter](https://github.com/haileyesus2433/BlockRouter)
-<sub><i>Turbin3 capstone, team project led by [haileyesus2433](https://github.com/haileyesus2433)</i></sub><br>
-Self-custodial stablecoin payments for AI inference on Solana. Lock a capped USDC budget in a vault PDA, point any OpenAI-compatible tool at the relayer, and pay for exact token usage on-chain. Whatever a session doesn't spend goes back to your vault. Deployed on devnet. I contributed to the build and made the pitch deck.<br>
-<sub>Rust · Anchor · TypeScript · Solana</sub> · [Repo](https://github.com/haileyesus2433/BlockRouter) · [Web app](https://blockrouter.netlify.app) · [Pitch deck](https://blockrouter-presentation.vercel.app)
+<sub>Sovra and BlockRouter are team builds; Sovra came out of the Tatum x Walrus hackathon and BlockRouter is my Turbin3 capstone team's project.</sub>
 
-### [StakeSync](https://www.usestakesync.xyz/)
-<sub><i>team project</i></sub><br>
-Put money behind your goals, prove you followed through, and earn rewards. You stake USDC on a challenge, progress is checked against sources like GitHub, LeetCode or your Solana wallet, and people who quit fund the people who don't. Supports USDC on Solana and Stellar.<br>
-<sub>TypeScript · React · Solana · Stellar</sub> · [Live app](https://www.usestakesync.xyz/) · [Pitch deck](https://stakesync-demo.vercel.app)
+## Open source
 
-### [Fliq](https://github.com/FliqLabs/Fliq)
-<sub><i>team project, in progress at the NEAR Hackathon (Nov 2026)</i></sub><br>
-A payout API that turns stablecoins into local bank and mobile money, routed to the best after-fee rate across off-ramp providers. A NEAR contract enforces spending caps so AI agents can pay without overspending. I work on the API: key management, signed webhooks with retries, payout history, and the deposit watcher.<br>
-<sub>TypeScript · NEAR · Rust · Docker</sub> · [Repo](https://github.com/FliqLabs/Fliq) · [Site](https://fliq-delta.vercel.app)
+<a href="https://github.com/ladicodes/DSA-Solutions-and-Patterns"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/oss-dsa-dark.svg"><img alt="DSA Solutions and Patterns: problems grouped by the pattern behind them, with step-by-step explanations. View repository." src="assets/cards/oss-dsa-light.svg" width="400"></picture></a>
 
-### [Sovra](https://github.com/Kingvic300/Sovra)
-<sub><i>hackathon team project with [Kingvic300](https://github.com/Kingvic300)</i></sub><br>
-A personal finance app that remembers your goals, limits and decisions in a memory vault on Walrus. Built for the Tatum x Walrus "Total Recall" hackathon. I built Sui USDC transaction sync, budget suggestions, reminders, and data export and deletion.<br>
-<sub>TypeScript · Sui · Walrus</sub> · [Repo](https://github.com/Kingvic300/Sovra) · [Live app](https://sovra-ecru.vercel.app)
+<a href="https://github.com/ladicodes/DSA-Solutions-and-Patterns"><img alt="Stars" src="https://img.shields.io/github/stars/ladicodes/DSA-Solutions-and-Patterns?style=flat-square&labelColor=1E293B&color=2DD4BF&logo=github"></a> <a href="https://github.com/ladicodes/DSA-Solutions-and-Patterns/graphs/contributors"><img alt="Contributors" src="https://img.shields.io/github/contributors/ladicodes/DSA-Solutions-and-Patterns?style=flat-square&labelColor=1E293B&color=2DD4BF"></a>
 
-## Writing and developer education
+## Video tutorials & demos
 
-I write the tutorials I wish I'd had: architecture first, then code. A few favourites:
+I build, I write, and I teach. My Docker series breaks one tool down in short videos, with an article for each part.
 
-**Solana, from the ground up**
-- [Building on Solana with Turbin3: Understanding the Architecture First](https://dev.to/ladipo_samuel_7cfaa827bf5/building-on-solana-with-turbin3-understanding-the-architecture-first-2fm8)
-- Building an SPL Token, a three-part series: [Creating the Mint](https://dev.to/ladipo_samuel_7cfaa827bf5/building-an-spl-token-creating-the-mint-gi7) → [Adding Metadata](https://dev.to/ladipo_samuel_7cfaa827bf5/building-an-spl-token-on-solana-adding-metadata-e5f) → [Minting Tokens and Understanding ATAs](https://dev.to/ladipo_samuel_7cfaa827bf5/building-an-spl-token-on-solana-minting-tokens-and-understanding-atas-3hpl)
+<p>
+  <a href="https://x.com/ladicodez/status/2071284719556215067"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/video-docker-1-dark.svg"><img alt="Video, Docker series part 1: What Docker is, and why companies use it. Watch on X." src="assets/cards/video-docker-1-light.svg" width="400"></picture></a>
+  <a href="https://x.com/ladicodez/status/2073815924365238379"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/video-docker-2-dark.svg"><img alt="Video, Docker series part 2: the concepts most tutorials skip. Watch on X." src="assets/cards/video-docker-2-light.svg" width="400"></picture></a>
+</p>
 
-**Backend engineering**
-- [Beyond CRUD: 9 Backend Concepts Every Engineer Should Know to Build Scalable and Reliable Systems](https://dev.to/ladipo_samuel_7cfaa827bf5/beyond-crud-9-backend-concepts-every-engineer-should-know-to-build-scalable-and-reliable-systems-4af3)
-- Docker Explained, a beginner series: [Part 1](https://dev.to/ladipo_samuel_7cfaa827bf5/docker-explained-part-1-understanding-docker-before-writing-your-first-command-3o0o) · [Part 2](https://dev.to/ladipo_samuel_7cfaa827bf5/docker-explained-part-2-understanding-dockers-architecture-images-containers-1fop) · [Part 3](https://dev.to/ladipo_samuel_7cfaa827bf5/docker-series-part-3dockerizing-your-first-application-1ji6)
+## Technical writing
 
-**Growing as a developer**
-- [The Strategy Behind Winning Hackathons](https://dev.to/ladipo_samuel_7cfaa827bf5/the-strategy-behind-winning-hackathons-3b33)
+<p>
+  <a href="https://dev.to/ladipo_samuel_7cfaa827bf5/building-on-solana-with-turbin3-understanding-the-architecture-first-2fm8"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/article-solana-architecture-dark.svg"><img alt="Article: Building on Solana with Turbin3: Understanding the Architecture First" src="assets/cards/article-solana-architecture-light.svg" width="400"></picture></a>
+  <a href="https://dev.to/ladipo_samuel_7cfaa827bf5/building-an-spl-token-creating-the-mint-gi7"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/article-spl-mint-dark.svg"><img alt="Article: Building an SPL Token: Creating the Mint" src="assets/cards/article-spl-mint-light.svg" width="400"></picture></a>
+  <a href="https://dev.to/ladipo_samuel_7cfaa827bf5/beyond-crud-9-backend-concepts-every-engineer-should-know-to-build-scalable-and-reliable-systems-4af3"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/article-beyond-crud-dark.svg"><img alt="Article: Beyond CRUD: 9 Backend Concepts Every Engineer Should Know" src="assets/cards/article-beyond-crud-light.svg" width="400"></picture></a>
+  <a href="https://dev.to/ladipo_samuel_7cfaa827bf5/backend-concepts-i-understand-better-because-of-fintech-2hee"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/article-fintech-dark.svg"><img alt="Article: Backend Concepts I Understand Better Because of Fintech" src="assets/cards/article-fintech-light.svg" width="400"></picture></a>
+</p>
 
-More on [DEV](https://dev.to/ladipo_samuel_7cfaa827bf5). Off the page, I've spoken at TechPulse on developer advocacy, mentored and spoken at the Hult Prize, been a panelist at tech events, and designed and judged hackathon challenges.
+<sub>
+  SPL token series continues with <a href="https://dev.to/ladipo_samuel_7cfaa827bf5/building-an-spl-token-on-solana-adding-metadata-e5f">Adding Metadata</a> and <a href="https://dev.to/ladipo_samuel_7cfaa827bf5/building-an-spl-token-on-solana-minting-tokens-and-understanding-atas-3hpl">Minting Tokens and Understanding ATAs</a> ·
+  Docker articles: <a href="https://dev.to/ladipo_samuel_7cfaa827bf5/docker-explained-part-1-understanding-docker-before-writing-your-first-command-3o0o">part 1</a>, <a href="https://dev.to/ladipo_samuel_7cfaa827bf5/docker-explained-part-2-understanding-dockers-architecture-images-containers-1fop">part 2</a>, <a href="https://dev.to/ladipo_samuel_7cfaa827bf5/docker-series-part-3dockerizing-your-first-application-1ji6">part 3</a> ·
+  <a href="https://dev.to/ladipo_samuel_7cfaa827bf5">everything on DEV</a>
+</sub>
 
-## Experience and communities
+## Experience & community
 
-- **Microsoft Nigeria** · Software Engineering Intern. Lead intern, Excellence and Collaboration Award.
-- **Squad by GTCO** · Software Engineer. Backend services in fintech, and the [Hackademy](https://github.com/ladicodes/Squad-Hackademy) developer education portal.
-- **Turbin3** · Solana builders cohort, graduate. Anchor programs for an [escrow](https://github.com/ladicodes/assignment_2_escrow), an [AMM](https://github.com/ladicodes/assignment_3_amm), [Token-2022](https://github.com/ladicodes/assignment_4_token22) and [NFT staking](https://github.com/ladicodes/assignment_5_nft_staking).
-- **GDG UNILAG** · Team Lead, Publicity & Community.
-- **Solana Student Academy** · Community Manager, onboarding students to Solana through workshops and hands-on projects.
-- Also: Millennium Fellow, and represented Nigeria at the FIRST Global Challenge.
+<table>
+  <tr><td><b>Microsoft</b></td><td>Former Software Engineering Intern. Chosen as lead intern for the cohort.</td></tr>
+  <tr><td><b>Squad by GTCO</b></td><td>Backend engineering in fintech, and work on <a href="https://github.com/ladicodes/Squad-Hackademy">Hackademy</a>, Squad's developer education portal.</td></tr>
+  <tr><td><b>Turbin3</b></td><td>Solana development program, graduate. Anchor programs for an <a href="https://github.com/ladicodes/assignment_2_escrow">escrow</a>, an <a href="https://github.com/ladicodes/assignment_3_amm">AMM</a>, <a href="https://github.com/ladicodes/assignment_4_token22">Token-2022</a> and <a href="https://github.com/ladicodes/assignment_5_nft_staking">NFT staking</a>.</td></tr>
+  <tr><td><b>GDG UNILAG</b></td><td>Team Lead, Publicity &amp; Community.</td></tr>
+  <tr><td><b>Speaking</b></td><td>Talk on developer advocacy at TechPulse, mentor and speaker at the Hult Prize, tech panels, and designing and judging hackathon challenges.</td></tr>
+</table>
 
 ## Tech stack
 
 <table>
-  <tr><td><b>Languages</b></td><td><img alt="Python" src="https://img.shields.io/badge/Python-1E293B?style=flat-square&logo=python&logoColor=22D3EE"> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-1E293B?style=flat-square&logo=typescript&logoColor=22D3EE"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-1E293B?style=flat-square&logo=javascript&logoColor=22D3EE"> <img alt="Rust" src="https://img.shields.io/badge/Rust-1E293B?style=flat-square&logo=rust&logoColor=22D3EE"> <img alt="Java" src="https://img.shields.io/badge/Java-1E293B?style=flat-square&logo=openjdk&logoColor=22D3EE"></td></tr>
-  <tr><td><b>Backend</b></td><td><img alt="Django" src="https://img.shields.io/badge/Django-1E293B?style=flat-square&logo=django&logoColor=22D3EE"> <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-1E293B?style=flat-square&logo=fastapi&logoColor=22D3EE"> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-1E293B?style=flat-square&logo=nodedotjs&logoColor=22D3EE"> <img alt="Express" src="https://img.shields.io/badge/Express-1E293B?style=flat-square&logo=express&logoColor=22D3EE"> <img alt="NestJS" src="https://img.shields.io/badge/NestJS-1E293B?style=flat-square&logo=nestjs&logoColor=22D3EE"> <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-1E293B?style=flat-square&logo=postgresql&logoColor=22D3EE"></td></tr>
-  <tr><td><b>Blockchain</b></td><td><img alt="Solana" src="https://img.shields.io/badge/Solana-1E293B?style=flat-square&logo=solana&logoColor=A78BFA"> <img alt="Anchor" src="https://img.shields.io/badge/Anchor-1E293B?style=flat-square&logoColor=A78BFA"> <img alt="SPL Tokens" src="https://img.shields.io/badge/SPL_%26_Token--2022-1E293B?style=flat-square&logoColor=A78BFA"> <img alt="Sui" src="https://img.shields.io/badge/Sui_·_Move-1E293B?style=flat-square&logo=sui&logoColor=A78BFA"></td></tr>
-  <tr><td><b>Frontend</b></td><td><img alt="React" src="https://img.shields.io/badge/React-1E293B?style=flat-square&logo=react&logoColor=22D3EE"> <img alt="Next.js" src="https://img.shields.io/badge/Next.js-1E293B?style=flat-square&logo=nextdotjs&logoColor=22D3EE"> <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-1E293B?style=flat-square&logo=tailwindcss&logoColor=22D3EE"></td></tr>
-  <tr><td><b>Tools</b></td><td><img alt="Docker" src="https://img.shields.io/badge/Docker-1E293B?style=flat-square&logo=docker&logoColor=22D3EE"> <img alt="Azure" src="https://img.shields.io/badge/Azure-1E293B?style=flat-square&logoColor=22D3EE"> <img alt="Vercel" src="https://img.shields.io/badge/Vercel-1E293B?style=flat-square&logo=vercel&logoColor=22D3EE"> <img alt="Git" src="https://img.shields.io/badge/Git-1E293B?style=flat-square&logo=git&logoColor=22D3EE"></td></tr>
+  <tr><td><b>Languages</b></td><td><img alt="Python" src="https://img.shields.io/badge/Python-1E293B?style=flat-square&logo=python&logoColor=22D3EE"> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-1E293B?style=flat-square&logo=typescript&logoColor=22D3EE"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-1E293B?style=flat-square&logo=javascript&logoColor=22D3EE"> <img alt="Rust" src="https://img.shields.io/badge/Rust-1E293B?style=flat-square&logo=rust&logoColor=22D3EE"></td></tr>
+  <tr><td><b>Backend</b></td><td><img alt="Django" src="https://img.shields.io/badge/Django-1E293B?style=flat-square&logo=django&logoColor=22D3EE"> <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-1E293B?style=flat-square&logo=fastapi&logoColor=22D3EE"> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-1E293B?style=flat-square&logo=nodedotjs&logoColor=22D3EE"> <img alt="NestJS" src="https://img.shields.io/badge/NestJS-1E293B?style=flat-square&logo=nestjs&logoColor=22D3EE"> <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-1E293B?style=flat-square&logo=postgresql&logoColor=22D3EE"></td></tr>
+  <tr><td><b>Blockchain</b></td><td><img alt="Solana" src="https://img.shields.io/badge/Solana-1E293B?style=flat-square&logo=solana&logoColor=A78BFA"> <img alt="Anchor" src="https://img.shields.io/badge/Anchor-1E293B?style=flat-square"> <img alt="SPL and Token-2022" src="https://img.shields.io/badge/SPL_%26_Token--2022-1E293B?style=flat-square"> <img alt="Sui" src="https://img.shields.io/badge/Sui_·_Move-1E293B?style=flat-square&logo=sui&logoColor=A78BFA"></td></tr>
+  <tr><td><b>Frontend &amp; cloud</b></td><td><img alt="React" src="https://img.shields.io/badge/React-1E293B?style=flat-square&logo=react&logoColor=22D3EE"> <img alt="Next.js" src="https://img.shields.io/badge/Next.js-1E293B?style=flat-square&logo=nextdotjs&logoColor=22D3EE"> <img alt="Docker" src="https://img.shields.io/badge/Docker-1E293B?style=flat-square&logo=docker&logoColor=22D3EE"> <img alt="Azure" src="https://img.shields.io/badge/Azure-1E293B?style=flat-square"> <img alt="Vercel" src="https://img.shields.io/badge/Vercel-1E293B?style=flat-square&logo=vercel&logoColor=22D3EE"></td></tr>
 </table>
 
-## Open source
+## Behind the commits
 
-My most-used open-source repo is **[DSA Solutions and Patterns](https://github.com/ladicodes/DSA-Solutions-and-Patterns)**. I solve a problem, name the pattern behind it, and explain the thinking so you can reuse the idea and not just the answer. Other developers contribute their solutions too.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
+  <img alt="GitHub activity for ladicodes over the last year: contributions per week, streaks, pull requests, stars and languages." src="assets/stats-light.svg" width="100%">
+</picture>
 
-<a href="https://github.com/ladicodes/DSA-Solutions-and-Patterns"><img alt="Stars" src="https://img.shields.io/github/stars/ladicodes/DSA-Solutions-and-Patterns?style=flat-square&labelColor=1E293B&color=2DD4BF&logo=github"></a> <a href="https://github.com/ladicodes/DSA-Solutions-and-Patterns/graphs/contributors"><img alt="Contributors" src="https://img.shields.io/github/contributors/ladicodes/DSA-Solutions-and-Patterns?style=flat-square&labelColor=1E293B&color=2DD4BF"></a>
-
-My day-to-day activity is in the contribution graph just below.
+<sub>Built from my public GitHub data and refreshed daily by a small GitHub Action in this repo.</sub>
 
 ## Let's build something
 
-If you're building developer tools, working on something in the Solana ecosystem, writing docs that need a friendly second pair of eyes, or putting together an event and need a speaker, I'd love to hear about it. I also enjoy contributing to open source and working with developer communities. My X DMs are open, and that's usually the fastest way to reach me.
+If you're building developer tools, working in the Solana ecosystem, or putting together an event and need a speaker, I'd love to hear about it. My X DMs are open, and that's usually the fastest way to reach me.
 
 <p align="center">
   <a href="https://www.ladicodes.dev"><b>Portfolio</b></a> ·
