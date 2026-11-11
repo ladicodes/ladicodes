@@ -193,8 +193,6 @@ CONTENT = {
         kicker="Docker series · part 2", accent="teal", duration="3:14", meta="on X",
         thumb="assets/media/docker-part-2.jpg")),
 
-    "article-solana-architecture": (article_card, dict(kicker="Solana", accent="purple", meta="5 min read",
-        title="Building on Solana with Turbin3: Understanding the Architecture First")),
     "article-spl-mint": (article_card, dict(kicker="Solana · SPL token series", accent="purple", meta="part 1 of 3",
         title="Building an SPL Token: Creating the Mint")),
     "article-beyond-crud": (article_card, dict(kicker="Backend", accent="cyan", meta="5 min read",
