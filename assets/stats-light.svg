@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-labelledby="t d">
+<title id="t">Behind the commits</title>
+<desc id="d">GitHub activity for ladicodes: 1,082 contributions in the last year, longest streak 21 days, 39 pull requests, 52 stars across 56 public repositories.</desc>
+<defs><linearGradient id="bar" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#0D9488"/><stop offset="1" stop-color="#0891B2"/></linearGradient><linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0891B2"/><stop offset="0.55" stop-color="#0D9488"/><stop offset="1" stop-color="#7C3AED"/></linearGradient></defs>
+<rect x="1" y="1" width="1198" height="458" rx="18" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="2"/>
+<text x="40" y="56" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" fill="#475569"><tspan fill="#0D9488">$</tspan> git log --author=ladicodes --since="1 year ago"</text>
+<text x="1160" y="56" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#475569">updated 2026-11-11</text>
+<text x="40" y="96" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#0F172A">Contributions per week</text>
+<line x1="40" y1="310" x2="740" y2="310" stroke="#E2E8F0" stroke-width="1.5"/>
+<rect x="40.0" y="307.8" width="10.3" height="2.2" rx="1.5" fill="url(#bar)"/>
+<rect x="53.3" y="308.0" width="10.3" height="2.0" rx="1.5" fill="#E2E8F0"/>
+<rect x="66.5" y="308.0" width="10.3" height="2.0" rx="1.5" fill="url(#bar)"/>
+<rect x="79.8" y="305.9" width="10.3" height="4.1" rx="1.5" fill="url(#bar)"/>
+<rect x="93.1" y="305.2" width="10.3" height="4.8" rx="1.5" fill="url(#bar)"/>
+<rect x="106.3" y="304.8" width="10.3" height="5.2" rx="1.5" fill="url(#bar)"/>
+<rect x="119.6" y="308.0" width="10.3" height="2.0" rx="1.5" fill="#E2E8F0"/>
+<rect x="132.8" y="308.0" width="10.3" height="2.0" rx="1.5" fill="url(#bar)"/>
+<rect x="146.1" y="308.0" width="10.3" height="2.0" rx="1.5" fill="#E2E8F0"/>
+<rect x="159.4" y="308.0" width="10.3" height="2.0" rx="1.5" fill="#E2E8F0"/>
+<rect x="172.6" y="308.0" width="10.3" height="2.0" rx="1.5" fill="#E2E8F0"/>
+<rect x="185.9" y="308.0" width="10.3" height="2.0" rx="1.5" fill="url(#bar)"/>
+<rect x="199.2" y="308.0" width="10.3" height="2.0" rx="1.5" fill="url(#bar)"/>
+<rect x="212.4" y="308.0" width="10.3" height="2.0" rx="1.5" fill="url(#bar)"/>
+<rect x="225.7" y="308.0" width="10.3" height="2.0" rx="1.5" fill="#E2E8F0"/>
+<rect x="239.0" y="308.0" width="10.3" height="2.0" rx="1.5" fill="url(#bar)"/>
+<rect x="252.2" y="308.0" width="10.3" height="2.0" rx="1.5" fill="#E2E8F0"/>
+<rect x="265.5" y="308.0" width="10.3" height="2.0" rx="1.5" fill="#E2E8F0"/>
+<rect x="278.8" y="308.0" width="10.3" height="2.0" rx="1.5" fill="#E2E8F0"/>
+<rect x="292.0" y="308.0" width="10.3" height="2.0" rx="1.5" fill="#E2E8F0"/>
+<rect x="305.3" y="304.8" width="10.3" height="5.2" rx="1.5" fill="url(#bar)"/>
+<rect x="318.5" y="296.6" width="10.3" height="13.4" rx="1.5" fill="url(#bar)"/>
+<rect x="331.8" y="301.1" width="10.3" height="8.9" rx="1.5" fill="url(#bar)"/>
+<rect x="345.1" y="303.7" width="10.3" height="6.3" rx="1.5" fill="url(#bar)"/>
+<rect x="358.3" y="297.3" width="10.3" height="12.7" rx="1.5" fill="url(#bar)"/>
+<rect x="371.6" y="305.5" width="10.3" height="4.5" rx="1.5" fill="url(#bar)"/>
+<rect x="384.9" y="307.8" width="10.3" height="2.2" rx="1.5" fill="url(#bar)"/>
+<rect x="398.1" y="305.5" width="10.3" height="4.5" rx="1.5" fill="url(#bar)"/>
+<rect x="411.4" y="306.3" width="10.3" height="3.7" rx="1.5" fill="url(#bar)"/>
+<rect x="424.7" y="301.1" width="10.3" height="8.9" rx="1.5" fill="url(#bar)"/>
+<rect x="437.9" y="303.3" width="10.3" height="6.7" rx="1.5" fill="url(#bar)"/>
+<rect x="451.2" y="304.4" width="10.3" height="5.6" rx="1.5" fill="url(#bar)"/>
+<rect x="464.5" y="307.4" width="10.3" height="2.6" rx="1.5" fill="url(#bar)"/>
+<rect x="477.7" y="308.0" width="10.3" height="2.0" rx="1.5" fill="url(#bar)"/>
+<rect x="491.0" y="308.0" width="10.3" height="2.0" rx="1.5" fill="url(#bar)"/>
+<rect x="504.2" y="307.8" width="10.3" height="2.2" rx="1.5" fill="url(#bar)"/>
+<rect x="517.5" y="308.0" width="10.3" height="2.0" rx="1.5" fill="url(#bar)"/>
+<rect x="530.8" y="308.0" width="10.3" height="2.0" rx="1.5" fill="url(#bar)"/>
+<rect x="544.0" y="308.0" width="10.3" height="2.0" rx="1.5" fill="url(#bar)"/>
+<rect x="557.3" y="308.0" width="10.3" height="2.0" rx="1.5" fill="url(#bar)"/>
+<rect x="570.6" y="308.0" width="10.3" height="2.0" rx="1.5" fill="url(#bar)"/>
+<rect x="583.8" y="308.0" width="10.3" height="2.0" rx="1.5" fill="url(#bar)"/>
+<rect x="597.1" y="308.0" width="10.3" height="2.0" rx="1.5" fill="url(#bar)"/>
+<rect x="610.4" y="308.0" width="10.3" height="2.0" rx="1.5" fill="url(#bar)"/>
+<rect x="623.6" y="307.8" width="10.3" height="2.2" rx="1.5" fill="url(#bar)"/>
+<rect x="636.9" y="305.9" width="10.3" height="4.1" rx="1.5" fill="url(#bar)"/>
+<rect x="650.2" y="305.2" width="10.3" height="4.8" rx="1.5" fill="url(#bar)"/>
+<rect x="663.4" y="298.5" width="10.3" height="11.5" rx="1.5" fill="url(#bar)"/>
+<rect x="676.7" y="300.3" width="10.3" height="9.7" rx="1.5" fill="url(#bar)"/>
+<rect x="689.9" y="306.3" width="10.3" height="3.7" rx="1.5" fill="url(#bar)"/>
+<rect x="703.2" y="288.0" width="10.3" height="22.0" rx="1.5" fill="url(#bar)"/>
+<rect x="716.5" y="286.2" width="10.3" height="23.8" rx="1.5" fill="url(#bar)"/>
+<rect x="729.7" y="110.0" width="10.3" height="200.0" rx="1.5" fill="url(#bar)"/>
+<text x="40" y="334" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#475569">Nov 2025</text>
+<text x="740" y="334" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#475569">now</text>
+<text x="740" y="96" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#475569">peak 537/wk</text>
+<rect x="790" y="90" width="175" height="72" rx="10" fill="none" stroke="#E2E8F0" stroke-width="1.5"/>
+<rect x="790" y="106" width="3" height="40" rx="1.5" fill="#0891B2"/>
+<text x="808" y="126" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#0F172A">1,082</text>
+<text x="808" y="148" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#475569">contributions</text>
+<rect x="981" y="90" width="175" height="72" rx="10" fill="none" stroke="#E2E8F0" stroke-width="1.5"/>
+<rect x="981" y="106" width="3" height="40" rx="1.5" fill="#0D9488"/>
+<text x="999" y="126" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#0F172A">21d</text>
+<text x="999" y="148" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#475569">longest streak</text>
+<rect x="790" y="178" width="175" height="72" rx="10" fill="none" stroke="#E2E8F0" stroke-width="1.5"/>
+<rect x="790" y="194" width="3" height="40" rx="1.5" fill="#0D9488"/>
+<text x="808" y="214" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#0F172A">9d</text>
+<text x="808" y="236" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#475569">current streak</text>
+<rect x="981" y="178" width="175" height="72" rx="10" fill="none" stroke="#E2E8F0" stroke-width="1.5"/>
+<rect x="981" y="194" width="3" height="40" rx="1.5" fill="#7C3AED"/>
+<text x="999" y="214" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#0F172A">39</text>
+<text x="999" y="236" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#475569">pull requests</text>
+<rect x="790" y="266" width="175" height="72" rx="10" fill="none" stroke="#E2E8F0" stroke-width="1.5"/>
+<rect x="790" y="282" width="3" height="40" rx="1.5" fill="#0891B2"/>
+<text x="808" y="302" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#0F172A">52</text>
+<text x="808" y="324" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#475569">stars earned</text>
+<rect x="981" y="266" width="175" height="72" rx="10" fill="none" stroke="#E2E8F0" stroke-width="1.5"/>
+<rect x="981" y="282" width="3" height="40" rx="1.5" fill="#7C3AED"/>
+<text x="999" y="302" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#0F172A">56</text>
+<text x="999" y="324" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#475569">public repos</text>
+<text x="40" y="384" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#0F172A">Languages I ship with</text>
+<text x="1160" y="384" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#475569">share of code in public repos</text>
+<clipPath id="lc"><rect x="40" y="396" width="1120" height="10" rx="5"/></clipPath><g clip-path="url(#lc)">
+<rect x="40.0" y="396" width="405.5" height="10" fill="#0891B2"/>
+<rect x="445.5" y="396" width="310.6" height="10" fill="#0D9488"/>
+<rect x="756.1" y="396" width="202.9" height="10" fill="#7C3AED"/>
+<rect x="958.9" y="396" width="106.0" height="10" fill="#2563EB"/>
+<rect x="1064.9" y="396" width="47.5" height="10" fill="#94A3B8"/>
+<rect x="1112.4" y="396" width="47.6" height="10" fill="#E2E8F0"/>
+</g>
+<circle cx="45" cy="426" r="5" fill="#0891B2"/>
+<text x="56" y="431" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#475569">TypeScript 36%</text>
+<circle cx="195.39999999999998" cy="426" r="5" fill="#0D9488"/>
+<text x="206.39999999999998" y="431" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#475569">JavaScript 28%</text>
+<circle cx="345.79999999999995" cy="426" r="5" fill="#7C3AED"/>
+<text x="356.79999999999995" y="431" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#475569">Move 18%</text>
+<circle cx="444.59999999999997" cy="426" r="5" fill="#2563EB"/>
+<text x="455.59999999999997" y="431" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#475569">Python 9%</text>
+<circle cx="552.0" cy="426" r="5" fill="#94A3B8"/>
+<text x="563.0" y="431" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#475569">Rust 4%</text>
+<rect x="1" y="454" width="1198" height="5" rx="2.5" fill="url(#accent)"/>
+</svg>
