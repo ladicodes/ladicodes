@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-labelledby="t d">
 <title id="t">Behind the commits</title>
-<desc id="d">GitHub activity for ladicodes: 1,106 contributions in the last year, longest streak 21 days, 39 pull requests, 52 stars across 56 public repositories.</desc>
+<desc id="d">GitHub activity for ladicodes: 1,107 contributions in the last year, longest streak 21 days, 39 pull requests, 52 stars across 56 public repositories.</desc>
 <defs><linearGradient id="bar" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#2DD4BF"/><stop offset="1" stop-color="#22D3EE"/></linearGradient><linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22D3EE"/><stop offset="0.55" stop-color="#2DD4BF"/><stop offset="1" stop-color="#A78BFA"/></linearGradient></defs>
 <rect x="1" y="1" width="1198" height="458" rx="18" fill="#0B1220" stroke="#1E293B" stroke-width="2"/>
 <text x="40" y="56" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" fill="#94A3B8"><tspan fill="#2DD4BF">$</tspan> git log --author=ladicodes --since="1 year ago"</text>
@@ -29,14 +29,14 @@
 <rect x="292.0" y="308.0" width="10.3" height="2.0" rx="1.5" fill="#1E293B"/>
 <rect x="305.3" y="305.0" width="10.3" height="5.0" rx="1.5" fill="url(#bar)"/>
 <rect x="318.5" y="297.2" width="10.3" height="12.8" rx="1.5" fill="url(#bar)"/>
-<rect x="331.8" y="301.4" width="10.3" height="8.6" rx="1.5" fill="url(#bar)"/>
-<rect x="345.1" y="303.9" width="10.3" height="6.1" rx="1.5" fill="url(#bar)"/>
+<rect x="331.8" y="301.5" width="10.3" height="8.5" rx="1.5" fill="url(#bar)"/>
+<rect x="345.1" y="304.0" width="10.3" height="6.0" rx="1.5" fill="url(#bar)"/>
 <rect x="358.3" y="297.9" width="10.3" height="12.1" rx="1.5" fill="url(#bar)"/>
 <rect x="371.6" y="305.7" width="10.3" height="4.3" rx="1.5" fill="url(#bar)"/>
 <rect x="384.9" y="307.9" width="10.3" height="2.1" rx="1.5" fill="url(#bar)"/>
 <rect x="398.1" y="305.7" width="10.3" height="4.3" rx="1.5" fill="url(#bar)"/>
 <rect x="411.4" y="306.4" width="10.3" height="3.6" rx="1.5" fill="url(#bar)"/>
-<rect x="424.7" y="301.4" width="10.3" height="8.6" rx="1.5" fill="url(#bar)"/>
+<rect x="424.7" y="301.5" width="10.3" height="8.5" rx="1.5" fill="url(#bar)"/>
 <rect x="437.9" y="303.6" width="10.3" height="6.4" rx="1.5" fill="url(#bar)"/>
 <rect x="451.2" y="304.7" width="10.3" height="5.3" rx="1.5" fill="url(#bar)"/>
 <rect x="464.5" y="307.5" width="10.3" height="2.5" rx="1.5" fill="url(#bar)"/>
@@ -54,7 +54,7 @@
 <rect x="623.6" y="307.9" width="10.3" height="2.1" rx="1.5" fill="url(#bar)"/>
 <rect x="636.9" y="306.1" width="10.3" height="3.9" rx="1.5" fill="url(#bar)"/>
 <rect x="650.2" y="305.4" width="10.3" height="4.6" rx="1.5" fill="url(#bar)"/>
-<rect x="663.4" y="298.9" width="10.3" height="11.1" rx="1.5" fill="url(#bar)"/>
+<rect x="663.4" y="299.0" width="10.3" height="11.0" rx="1.5" fill="url(#bar)"/>
 <rect x="676.7" y="300.7" width="10.3" height="9.3" rx="1.5" fill="url(#bar)"/>
 <rect x="689.9" y="306.4" width="10.3" height="3.6" rx="1.5" fill="url(#bar)"/>
 <rect x="703.2" y="289.0" width="10.3" height="21.0" rx="1.5" fill="url(#bar)"/>
@@ -62,10 +62,10 @@
 <rect x="729.7" y="110.0" width="10.3" height="200.0" rx="1.5" fill="url(#bar)"/>
 <text x="40" y="334" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#94A3B8">Nov 2025</text>
 <text x="740" y="334" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#94A3B8">now</text>
-<text x="740" y="96" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#94A3B8">peak 561/wk</text>
+<text x="740" y="96" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#94A3B8">peak 562/wk</text>
 <rect x="790" y="90" width="175" height="72" rx="10" fill="none" stroke="#1E293B" stroke-width="1.5"/>
 <rect x="790" y="106" width="3" height="40" rx="1.5" fill="#22D3EE"/>
-<text x="808" y="126" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#E2E8F0">1,106</text>
+<text x="808" y="126" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#E2E8F0">1,107</text>
 <text x="808" y="148" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#94A3B8">contributions</text>
 <rect x="981" y="90" width="175" height="72" rx="10" fill="none" stroke="#1E293B" stroke-width="1.5"/>
 <rect x="981" y="106" width="3" height="40" rx="1.5" fill="#2DD4BF"/>
@@ -73,7 +73,7 @@
 <text x="999" y="148" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#94A3B8">longest streak</text>
 <rect x="790" y="178" width="175" height="72" rx="10" fill="none" stroke="#1E293B" stroke-width="1.5"/>
 <rect x="790" y="194" width="3" height="40" rx="1.5" fill="#2DD4BF"/>
-<text x="808" y="214" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#E2E8F0">10d</text>
+<text x="808" y="214" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#E2E8F0">11d</text>
 <text x="808" y="236" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#94A3B8">current streak</text>
 <rect x="981" y="178" width="175" height="72" rx="10" fill="none" stroke="#1E293B" stroke-width="1.5"/>
 <rect x="981" y="194" width="3" height="40" rx="1.5" fill="#A78BFA"/>
