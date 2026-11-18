@@ -90,22 +90,22 @@
 <text x="40" y="384" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#0F172A">Languages I ship with</text>
 <text x="1160" y="384" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#475569">share of code in public repos</text>
 <clipPath id="lc"><rect x="40" y="396" width="1120" height="10" rx="5"/></clipPath><g clip-path="url(#lc)">
-<rect x="40.0" y="396" width="424.9" height="10" fill="#0891B2"/>
-<rect x="464.9" y="396" width="259.0" height="10" fill="#0D9488"/>
-<rect x="723.9" y="396" width="187.7" height="10" fill="#7C3AED"/>
-<rect x="911.6" y="396" width="169.1" height="10" fill="#2563EB"/>
-<rect x="1080.7" y="396" width="39.6" height="10" fill="#94A3B8"/>
-<rect x="1120.2" y="396" width="39.8" height="10" fill="#E2E8F0"/>
+<rect x="40.0" y="396" width="442.6" height="10" fill="#0891B2"/>
+<rect x="482.6" y="396" width="254.0" height="10" fill="#0D9488"/>
+<rect x="736.6" y="396" width="182.2" height="10" fill="#7C3AED"/>
+<rect x="918.8" y="396" width="164.1" height="10" fill="#2563EB"/>
+<rect x="1083.0" y="396" width="38.4" height="10" fill="#94A3B8"/>
+<rect x="1121.4" y="396" width="38.6" height="10" fill="#E2E8F0"/>
 </g>
 <circle cx="45" cy="426" r="5" fill="#0891B2"/>
-<text x="56" y="431" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#475569">TypeScript 38%</text>
+<text x="56" y="431" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#475569">TypeScript 40%</text>
 <circle cx="195.39999999999998" cy="426" r="5" fill="#0D9488"/>
 <text x="206.39999999999998" y="431" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#475569">JavaScript 23%</text>
 <circle cx="345.79999999999995" cy="426" r="5" fill="#7C3AED"/>
-<text x="356.79999999999995" y="431" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#475569">Python 17%</text>
+<text x="356.79999999999995" y="431" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#475569">Python 16%</text>
 <circle cx="461.79999999999995" cy="426" r="5" fill="#2563EB"/>
 <text x="472.79999999999995" y="431" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#475569">Move 15%</text>
 <circle cx="560.5999999999999" cy="426" r="5" fill="#94A3B8"/>
-<text x="571.5999999999999" y="431" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#475569">Rust 4%</text>
+<text x="571.5999999999999" y="431" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#475569">Rust 3%</text>
 <rect x="1" y="454" width="1198" height="5" rx="2.5" fill="url(#accent)"/>
 </svg>
