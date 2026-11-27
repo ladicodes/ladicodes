@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-labelledby="t d">
 <title id="t">Behind the commits</title>
-<desc id="d">GitHub activity for ladicodes: 1,147 contributions in the last year, longest streak 21 days, 46 pull requests, 56 stars across 58 public repositories.</desc>
+<desc id="d">GitHub activity for ladicodes: 1,149 contributions in the last year, longest streak 21 days, 46 pull requests, 56 stars across 59 public repositories.</desc>
 <defs><linearGradient id="bar" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#0D9488"/><stop offset="1" stop-color="#0891B2"/></linearGradient><linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0891B2"/><stop offset="0.55" stop-color="#0D9488"/><stop offset="1" stop-color="#7C3AED"/></linearGradient></defs>
 <rect x="1" y="1" width="1198" height="458" rx="18" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="2"/>
 <text x="40" y="56" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" fill="#475569"><tspan fill="#0D9488">$</tspan> git log --author=ladicodes --since="1 year ago"</text>
@@ -59,13 +59,13 @@
 <rect x="689.9" y="287.2" width="10.3" height="22.8" rx="1.5" fill="url(#bar)"/>
 <rect x="703.2" y="110.0" width="10.3" height="200.0" rx="1.5" fill="url(#bar)"/>
 <rect x="716.5" y="295.8" width="10.3" height="14.2" rx="1.5" fill="url(#bar)"/>
-<rect x="729.7" y="307.9" width="10.3" height="2.1" rx="1.5" fill="url(#bar)"/>
+<rect x="729.7" y="307.2" width="10.3" height="2.8" rx="1.5" fill="url(#bar)"/>
 <text x="40" y="334" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#475569">Nov 2025</text>
 <text x="740" y="334" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#475569">now</text>
 <text x="740" y="96" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#475569">peak 562/wk</text>
 <rect x="790" y="90" width="175" height="72" rx="10" fill="none" stroke="#E2E8F0" stroke-width="1.5"/>
 <rect x="790" y="106" width="3" height="40" rx="1.5" fill="#0891B2"/>
-<text x="808" y="126" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#0F172A">1,147</text>
+<text x="808" y="126" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#0F172A">1,149</text>
 <text x="808" y="148" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#475569">contributions</text>
 <rect x="981" y="90" width="175" height="72" rx="10" fill="none" stroke="#E2E8F0" stroke-width="1.5"/>
 <rect x="981" y="106" width="3" height="40" rx="1.5" fill="#0D9488"/>
@@ -85,7 +85,7 @@
 <text x="808" y="324" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#475569">stars earned</text>
 <rect x="981" y="266" width="175" height="72" rx="10" fill="none" stroke="#E2E8F0" stroke-width="1.5"/>
 <rect x="981" y="282" width="3" height="40" rx="1.5" fill="#7C3AED"/>
-<text x="999" y="302" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#0F172A">58</text>
+<text x="999" y="302" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#0F172A">59</text>
 <text x="999" y="324" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#475569">public repos</text>
 <text x="40" y="384" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#0F172A">Languages I ship with</text>
 <text x="1160" y="384" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#475569">share of code in public repos</text>
